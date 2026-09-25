@@ -2,6 +2,9 @@
 
 A MATLAB App Designer project developed for the **Smart Healthcare Applications (EGE354)** module.
 
+> **Note:** `ecg_module_v4_Serial.mlapp` is the original MATLAB App Designer application.  
+> `ecg_module_v4_Serial_source.m` is included as a readable source-code reference for GitHub viewing.
+
 The application was designed to acquire and analyse ECG signals using an ECG sensor connected through a serial COM port. It supports ECG visualisation, time-domain conversion, frequency analysis, signal filtering, R-peak detection and heart-rate calculation.
 
 ## Project Features
